@@ -4,3 +4,10 @@ repoURL: 'https://gitee.com/OpenCloudOS'
 # Press-release materials mention LoongArch but that "port" seems to be
 # "Stream" ("L1" in OpenCloudOS-speak) -only for now.
 portingEfforts: []
+- authors: []
+    desc: ''
+    link: 'https://mirrors.opencloudos.tech/opencloudos/'
+    supportStatus: Released
+    releasedSinceVersion: '9.4'
+    goodSinceVersion: '9.4'
+    quality: OnPar
